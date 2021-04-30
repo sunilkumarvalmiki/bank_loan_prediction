@@ -4,8 +4,6 @@
 # In[ ]:
 
 
-get_ipython().system('pip install -q pyngrok')
-
 get_ipython().system('pip install -q streamlit')
 
 get_ipython().system('pip install -q streamlit_ace')
